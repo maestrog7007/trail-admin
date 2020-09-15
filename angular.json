@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "trail-web"
+    }
+  },
+  "defaultProject": "trail-web",
+  "cli": {
+    "analytics": false
+  }
 }
